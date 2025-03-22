@@ -1,6 +1,4 @@
-# Introduction
-
-This a car part webshop, a demo project to give insight into my software development skills.
+# A car part webshop app to give an insight into my software development skills
 
 # Feature checklist
 
